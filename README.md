@@ -1,4 +1,4 @@
-<h1>Classic-Pool-Game</h1>
+<h1>SharkzPool</h1>
 <small>© 2018, Gamesharkz</small>
 <hr>
 
