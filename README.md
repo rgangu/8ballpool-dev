@@ -1,5 +1,5 @@
 <h1>SharkzPool</h1>
-<small>© 2018, Gamesharkz</small>
+<small>© 2018, Rohit Gangupantulu</small>
 <hr>
 
 <h3>Keys:</h3>
